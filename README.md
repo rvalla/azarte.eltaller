@@ -2,7 +2,7 @@
 
 # azarte: el taller
 
-This is the site companion website for a workshop about randomness and how it can be used in art. It is part
+This is the companion website for a workshop about randomness and how it can be used in art. It is part
 of **azarte** project obviously.  
 
 Feel free to contact me by [mail](mailto:rodrigovalla@protonmail.ch) or reach me in
